@@ -8,3 +8,5 @@ Curso "Procesamiento de Datos Geográficos" (GF-0602) de la Escuela de Geografí
   * Anaconda
   * Jupyter
 * Tipos de datos geográficos
+  * Vectorial
+  * Raster
