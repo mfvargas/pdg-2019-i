@@ -11,10 +11,15 @@ Curso "Procesamiento de Datos Geográficos" (GF-0602) de la Escuela de Geografí
 * Software para procesamiento de datos geográficos
   * Sistemas de información geográfica (SIG)
   * Bases de datos
+  * Servicios web
   * Lenguajes de programación
-* Herramientas
-  * Anaconda
-  * Jupyter
+  * Estándares
+    * Simple features
+  * Bibliotecas
+    * GDAL
+  * Herramientas
+    * Anaconda
+    * Jupyter
 * Tipos de datos geográficos
   * Vectorial
   * Raster
