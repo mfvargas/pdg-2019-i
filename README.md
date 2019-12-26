@@ -23,3 +23,4 @@ Curso "Procesamiento de Datos Geográficos" (GF-0602) de la Escuela de Geografí
 * Tipos de datos geográficos
   * Vectorial
   * Raster
+* Bibliografía
