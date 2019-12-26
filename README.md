@@ -3,6 +3,8 @@ Curso "Procesamiento de Datos Geográficos" (GF-0602) de la Escuela de Geografí
 
 ## Contenidos
 * Arquitectura de computadoras
+  * Hardware
+  * Software
 * Software para procesamiento de datos geográficos
 * Herramientas
   * Anaconda
