@@ -8,3 +8,6 @@ Este es un curso de la carrera de Bachillerato y Licenciatura en Geografía de l
 * MA-0130 Matemática para Geografía II
 
 **Horas semanales**: 6 (2 de teoría, 4 de laboratorio) 
+
+## Descripción
+Este es un curso introductorio al procesamiento de datos geográficos mediante el lenguaje R de programación de computadoras.
