@@ -17,6 +17,9 @@ El curso ofrece una introducción al procesamiento de datos geográficos mediant
 * Jueves de 13:00 a 15:00, en el laboratorio 214 de la Escuela de Geografía
 
 ## Objetivos
+* Aprender los fundamentos del lenguaje de programación R.
+* Aprender el uso de las principales bibliotecas de R para procesamiento de datos geoespaciales.
+* Aplicar el lenguaje de programación R a datos socio-ambientales georreferenciados.
 
 ## Contenido
 Semana 1
