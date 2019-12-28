@@ -1,5 +1,6 @@
 # GF-0604 Procesamiento de datos geográficos (I ciclo de 2020)
-Este es un curso de la carrera de Bachillerato y Licenciatura en Geografía de la Escuela de Geografía de la Universidad de Costa Rica, impartido durante el I ciclo lectivo de 2020.
+Este es un curso de la carrera de Bachillerato y Licenciatura en Geografía de la Escuela de Geografía de la Universidad de Costa Rica, impartido durante el I ciclo lectivo de 2020. Ofrece una introducción al procesamiento de datos geográficos mediante el lenguaje R de programación de computadoras.
+
 
 **Créditos**: 4
 
@@ -9,5 +10,14 @@ Este es un curso de la carrera de Bachillerato y Licenciatura en Geografía de l
 
 **Horas semanales**: 6 (2 de teoría, 4 de laboratorio) 
 
-## Descripción
-Este es un curso introductorio al procesamiento de datos geográficos mediante el lenguaje R de programación de computadoras.
+## Objetivos
+
+## Contenido
+
+## Metodología
+
+## Evaluación
+
+## Normativa de interés
+
+## Bibliografía
