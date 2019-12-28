@@ -19,7 +19,7 @@ El curso ofrece una introducción al procesamiento de datos geográficos mediant
 ## Objetivos
 * Aprender los fundamentos del lenguaje de programación R.
 * Aprender el uso de las principales bibliotecas de R para procesamiento de datos geoespaciales.
-* Aplicar el lenguaje de programación R a datos socio-ambientales georreferenciados.
+* Aplicar el lenguaje de programación R a datos georreferenciados.
 
 ## Contenido
 Semana 1
