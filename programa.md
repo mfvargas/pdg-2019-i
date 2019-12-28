@@ -20,8 +20,8 @@ El curso ofrece una introducción al procesamiento de datos geográficos mediant
 
 ## Contenido
 Semana 1
-*
-*
+* Presentación del curso
+* Laboratorio: Instalación de herramientas de software
 
 Semana 2
 *
