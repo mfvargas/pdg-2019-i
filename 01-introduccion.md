@@ -15,8 +15,15 @@ Las primeras computadoras estaban destinadas a fines muy particulares y solament
 |:---:|
 | Figura 1.2. Supercomputadora Blue Gene/P de IBM, 2007. Ha sido utilizada para mapear el genoma humano, simular la radiactividad y replicar el cerebro humano, entre otras aplicaciones. Es 30 veces más pequeña que ENIAC.<br>Fuente: [Argonne National Laboratory, a través de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IBM_Blue_Gene_P_supercomputer.jpg)|
 
-Al cojunto de todos los componentes electrónicos de una computadora, junto con sus programas 
+### Arquitectura
+Independientemente de su tamaño, las computadoras modernas acostumbran ajustarse a una arquitectura conocida como 
 
-acostumbra dividir los componentes de un sistema computacional en __hardware__ y _software_.
+#### Hardware
 
-### Hardware
+#### Software
+
+##### Sistemas operativos
+
+##### Programas de aplicación
+
+##### Lenguajes de programación
