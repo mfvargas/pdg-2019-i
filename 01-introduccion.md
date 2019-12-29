@@ -16,7 +16,9 @@ Las primeras computadoras estaban destinadas a fines muy particulares y solament
 | Figura 1.2. Supercomputadora Blue Gene/P de IBM, 2007. Ha sido utilizada para mapear el genoma humano, simular la radiactividad y replicar el cerebro humano, entre otras aplicaciones. Es 30 veces más pequeña que ENIAC.<br>Fuente: [Argonne National Laboratory, a través de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IBM_Blue_Gene_P_supercomputer.jpg)|
 
 ### Arquitectura
-Independientemente de su tamaño, las computadoras modernas acostumbran ajustarse a una arquitectura conocida como 
+Independientemente de su tamaño y capacidades, las computadoras modernas acostumbran ajustarse a una arquitectura conocida como arquitectura de von Neumann. Fue descrita en 1945 por el matemático y físico húngaro-estadounidense John von Neumann (1903 - 1957). El esquema de la arquitectura de von Neumann se ilustra en la figura 1.3.
+
+
 
 #### Hardware
 
