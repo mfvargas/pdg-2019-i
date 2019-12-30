@@ -8,6 +8,9 @@ El desarrollo de los dispositivos que hoy llamamos computadoras corresponde a un
 
 En 1805, el tejedor francés [Joseph-Marie Jacquard (1752 - 1834)](https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard) creó un telar, llamado [telar de Jacquard](https://en.wikipedia.org/wiki/Jacquard_machine), equipado con un lector de [tarjetas perforadas](https://en.wikipedia.org/wiki/Punched_card), las cuales contenían los patrones de las telas a fabricar. Este sistema no solo permitió la fabricación de tejidos con patrones más elaborados, también demostró que una máquina podía recibir "instrucciones" para efectuar variaciones en las tareas que realizaba. El uso de tarjetas perforadas para introducir estas instrucciones fue utilizado también por las computadoras del siglo XX.
 
+#### La máquina analítica de Charles Babbage
+En 1837, el matemático inglés [Charles Babbage (1791 - 1871)](https://en.wikipedia.org/wiki/Charles_Babbage) describió un dispositivo que es considerado por algunos la primera computadora digital programable. Se denominó [máquina analítica](https://en.wikipedia.org/wiki/Analytical_Engine).
+
 La mayoría de las computadoras que se fabrican en la actualidad son digitales (i.e. procesan señales discretas, usualmente binarias) y su origen se remonta a la época de la segunda guerra mundial, en las décadas de 1930 y 1940, cuando fueron usadas en tareas militares como decodificación de mensajes encriptados y cálculo de trayectorias de proyectiles (ver figura 1.1).
 
 | ![](img/Eniac.jpg) |
