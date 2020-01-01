@@ -1,7 +1,15 @@
 # Introducción
 
 ## Computadoras
-Una computadora es una máquina que puede ejecutar automáticamente secuencias de cálculos y de operaciones lógicas. Estas secuencias son denominadas programas. En las computadoras modernas, es posible cambiar los programas que ejecutan sin necesidad de alterar los componentes físicos de las computadoras. Los programas pueden desarrollarse con fines muy diversos, lo que le da a las computadoras una gran versatilidad con respecto a otras máquinas que solamente realizan tareas predefinidas (ej. calculadoras).
+Una computadora es una máquina que puede ejecutar automáticamente secuencias de cálculos y de operaciones lógicas. Estas secuencias son denominadas programas. 
+
+Algunas de las principales características de las computadoras modernas son:
+* Son electrónicas: 
+* Son digitales.
+* Son binarias.
+* Son programables.
+
+En las computadoras modernas, es posible cambiar los programas que ejecutan sin necesidad de alterar los componentes físicos de las computadoras. Los programas pueden desarrollarse con fines muy diversos, lo que le da a las computadoras una gran versatilidad con respecto a otras máquinas que solamente realizan tareas predefinidas (ej. calculadoras).
 
 ### Historia
 El desarrollo de los dispositivos que hoy llamamos computadoras corresponde a un proceso gradual que tomó cientos de años. Ya en el siglo XVII se inventaban máquinas que realizaban tareas repetitivas, incluyendo calculadoras mecánicas que buscaban mejorar la capacidad y los resultados brindados por los ábacos, utilizados desde la antigüedad. La revolución industrial del siglo XVIII incentivó la creación de máquinas de este tipo. Así, en 1820, el matemático francés [Charles Xavier Thomas (1785 - 1870)](https://en.wikipedia.org/wiki/Charles_Xavier_Thomas) inventó el [aritmómetro](https://en.wikipedia.org/wiki/Arithmometer), la primera máquina de calcular que tuvo éxito comercial. Basada en tecnología diseñada por el filósofo y matemático alemán [Gottfried Wilhelm Leibniz (1646 - 1716)](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz), era capaz de realizar sumas, restas, multiplicaciones y divisiones. Fue producida másivamente hasta la primera guerra mundial.
